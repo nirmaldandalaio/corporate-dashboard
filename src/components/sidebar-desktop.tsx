@@ -44,10 +44,10 @@ export function SidebarDesktop(props: SidebarDesktopProps) {
                   <div className="flex justify-between items-center w-full">
                     <div className="flex gap-2">
                       <Avatar className="h-5 w-5">
-                        <AvatarImage src="https://github.com/max-programming.png" />
-                        <AvatarFallback>Max Programming</AvatarFallback>
+                        <AvatarImage src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9PINHF3-L0a2s8SregKwFPIIBh0UrZ9Yk-04ljnDGttrcJ0rFQtMMLNSas9Y2RztRYDowwpNFC2TeC93ysIEYjgb6lXpgoVgXggayC3t09OFXZqW-uCUlEcYH3hpa6hyGMOYTbomeL1m9/s1600/Tony+Stark.jpg" />
+                        <AvatarFallback>Tony Stark</AvatarFallback>
                       </Avatar>
-                      <span>Max Programming</span>
+                      <span>Tony Stark</span>
                     </div>
                     <MoreHorizontal size={20} />
                   </div>
